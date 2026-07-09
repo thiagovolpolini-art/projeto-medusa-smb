@@ -1,0 +1,9 @@
+123456
+admin
+password
+senha123
+root
+user
+test
+postgres
+msfadmin
